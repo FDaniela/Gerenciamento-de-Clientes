@@ -2,6 +2,8 @@
 
 Este projeto implementa um sistema simples de gerenciamento de clientes. Ele permite ao usuário realizar operações básicas, como cadastrar novos clientes, visualizar a lista de clientes, editar informações existentes e excluir registros de clientes.
 
+![image](https://github.com/FDaniela/Gerenciamento-de-Clientes/assets/102395421/33eb646a-0b5a-4689-96ac-492be9704c31)
+
 ### 🛠 Tecnologias
 
 As seguintes tecnologias e ferramentas foram utilizadas na construção deste projeto:
